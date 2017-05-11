@@ -1,5 +1,6 @@
 body{
-    background-color:cyan;
+    background-color:pink;
+    font: 10px sans-serif;
   }
  
 .legend {
@@ -16,6 +17,28 @@ body{
   fill:none;
   stroke: red;
 }
-.chartContainer{
-	margin: 0 auto;
+
+
+header h1{  
+  color:blue;
+  background-color: black;
+  text-align: center;
+  margin-top:-10px;
+
+  
 }
+a:hover{
+  color: white;
+}
+#head{
+  float: center;
+  max-width: 100%;
+  padding: 1em;
+}
+#h ul,li{
+  list-style-type: none;
+  padding: 0;
+  font-size: 10px;
+  color:blue;
+    margin-left: 20px;
+    }
